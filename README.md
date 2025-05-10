@@ -1,6 +1,3 @@
-Absolutely! Here’s a **ready-to-use GitHub README.md** for your DataPeace Backend Assignment project.  
-Just copy and paste the entire block below into your `README.md` file:
-
 ```markdown
 # 📡 DataPeace Backend Assignment - User Management REST API
 
@@ -208,13 +205,4 @@ This project is for educational/demo purposes as part of the DataPeace assignmen
 ---
 ```
 
----
 
-**Tip:**  
-- Replace `` with your actual repository URL.
-- You can add badges, screenshots, or extra sections if you want to make it even more appealing!
-
-Let me know if you need help with deployment, unit tests, or anything else! 🚀
-
----
-Answer from Perplexity: pplx.ai/share
