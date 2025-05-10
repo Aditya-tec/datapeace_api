@@ -27,25 +27,6 @@ It fulfills all the requirements given in the DataPeace Backend Assignment.
 
 ---
 
-## 📂 Folder Structure
-
-```
-datapeace_api/
-├── config/                 # Main Django settings and routing
-├── users/                  # App for handling user-related logic
-│   ├── migrations/
-│   ├── management/commands/import_users.py
-│   ├── models.py
-│   ├── serializers.py
-│   ├── views.py
-│   ├── urls.py
-├── users.json              # Sample user data
-├── requirements.txt        # Python dependencies
-└── manage.py
-```
-
----
-
 ## 🛠️ Setup Instructions
 
 ### 1. Clone the Repository
@@ -189,14 +170,6 @@ You can test endpoints using:
 
 ---
 
-## 📬 Submission
-
-To submit:
-
-1. Push this project to a public GitHub/GitLab repo.
-2. Share the repo URL + deployed link (if hosted) to: `careers@datapeace.in`
-
----
 
 ## 📄 License
 
@@ -204,5 +177,3 @@ This project is for educational/demo purposes as part of the DataPeace assignmen
 
 ---
 ```
-
-
